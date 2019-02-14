@@ -1,0 +1,8 @@
+# Basic Metabot
+A very simple example to show how to build a Metabot that integrates with Automation Anywhere Enterprise Client (v10).
+
+Compiled in Visual Studio 2017.
+
+This example exposes two methods:
+- HelloName, which returns "Hello $inputName$", and
+- AddTwo, which adds 2 to the variable passed in
